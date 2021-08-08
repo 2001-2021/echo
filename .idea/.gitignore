@@ -306,5 +306,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/*.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,maven,java,python,groovy,angular,vue,vuejs

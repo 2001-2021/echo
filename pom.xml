@@ -83,9 +83,9 @@
                                             <minimum>0.9</minimum>
                                         </limit>
                                     </limits>
-<!--                                    <excludes>-->
-<!--                                        <exclude>dev.a2021.sb.MySpringBootApplication</exclude>-->
-<!--                                    </excludes>-->
+                                    <excludes>
+                                        <exclude>dev.a2021.sb.MySpringBootApplication</exclude>
+                                    </excludes>
                                 </rule>
                             </rules>
                         </configuration>
